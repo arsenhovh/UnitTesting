@@ -4,7 +4,7 @@
   "description": "simple unit testing with mocha",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --config test/config/mocha.config.js"
   },
   "keywords": [
     "mocha",
